@@ -1,7 +1,7 @@
 # ToDoList-Web-App
 <br/><br/>
-## Description 
-<br/><br/>
+# Description 
+<br/>
 In this app you can make different purpose Lists, add items according to your needs and delete them .
 <br/><br/>
 Prerequisite : Nodejs for backend , NPM package manager , Mongodb for database , express for setting up the server .
@@ -10,7 +10,7 @@ Other packages : body-parser, ejs, lodash .
 <br/><br/>
 List gets updated in real time.
 <br/><br/>
-**Installation** 
+# Installation
 1.Download the zip file or clone the file.
 <br/><br/>
 2.Run the command "npm install" to install the node Modules.
@@ -20,7 +20,7 @@ List gets updated in real time.
 4.Open https://localhost:3000 to see the webapp.
 <br/><br/>
 5. you can make different lists by moving http://localhost:3000/yourcategory .
-example - http://localhost:3000/work 
+**example** - http://localhost:3000/work 
 <br/><br/>
 Add and delete items from different lists for trial .
 
