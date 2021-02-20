@@ -1,5 +1,5 @@
 # ToDoList-Web-App
-<br/><br/>
+<br/>
 # Description 
 <br/>
 In this app you can make different purpose Lists, add items according to your needs and delete them .
